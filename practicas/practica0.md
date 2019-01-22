@@ -1,18 +1,18 @@
-#Práctica 0
+# Práctica 0
 
-Objetivo:
+## Objetivo:
 Compilar y correr xv6
 
-Herramientas:
+## Herramientas:
 gcc -> compilador
 qemu -> maquina virtual
 make -> automatizaciones
 
-Conceptos:
+## Conceptos:
 Un programa esta compuesto de un codigo fuente.
 Un sistema operativo esta compuesto de un kernel y de aplicaciones del sistema.
 
-Que aprendi:
+## Que aprendi:
 
 
 
