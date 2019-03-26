@@ -31,4 +31,6 @@ SYSCALL(sleep)
 SYSCALL(uptime)
 SYSCALL(shutdown)
 SYSCALL(reboot)
+SYSCALL(setpriority)
+SYSCALL(getpriority)
 
